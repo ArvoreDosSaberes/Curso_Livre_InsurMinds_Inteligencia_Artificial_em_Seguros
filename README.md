@@ -1,10 +1,12 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosdelfino.InsurMinds)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.Curso_Livre_InsurMinds_Inteligencia_Artificial_em_Seguros)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Prática-green)
 ![Status](https://img.shields.io/badge/Status-Educa%C3%A7%C3%A3o-brightgreen)
+![Repository Size](https://img.shields.io/github/repo-size/ArvoreDosSaberes/Curso_Livre_InsurMinds_Inteligencia_Artificial_em_Seguros)
+![Last Commit](https://img.shields.io/github/last-commit/ArvoreDosSaberes/Curso_Livre_InsurMinds_Inteligencia_Artificial_em_Seguros)
 
 <!-- Animated Header -->
 <p align="center">
@@ -21,6 +23,20 @@ Este repositório contém:
 - **Documentação estruturada** de cada aula com resumo, índice de tópicos e conteúdo detalhado
 - **Scripts utilitários** para processamento de legendas e transcrição por IA
 - **Metadados** para controle de aulas processadas
+
+## Propósito Educacional
+
+**AVISO IMPORTANTE:** Este repositório é fruto exclusivamente de minhas anotações pessoais e registros das aulas do programa InsurMinds. **O I2A2 (Instituto de Inteligência Artificial Aplicada) NÃO TEM NENHUMA RESPONSABILIDADE sobre o material aqui contido.** Apenas eu sou o responsável pelo conteúdo, que é resultado de minhas anotações e registro pessoal das aulas.
+
+Este projeto:
+
+- **É de minha autoria exclusiva** - baseado em minhas anotações e interpretação pessoal do conteúdo das aulas
+- **Não representa oficialmente** o I2A2, patrocinadores ou qualquer outra organização
+- **Não possui fins lucrativos** - é mantido para uso estritamente educacional pessoal
+- **Destina-se ao aprendizado** individual e como registro de meu processo de estudo
+- **Respeita os direitos autorais** do conteúdo original fornecido pelas instituições
+
+Todo o material aqui compilado serve como registro de meu processo de aprendizagem e como referência para estudos futuros na área de IA aplicada ao setor segurador.
 
 ## Estrutura do Projeto
 
@@ -116,11 +132,12 @@ O arquivo `transcrição das aulas/metadata.json` controla quais aulas já foram
 </p>
 
 ---
-**Resumo:** Repositório de documentação e transcrição do programa InsurMinds — Agentes Inteligentes com IA Generativa aplicados ao mercado de seguros (I2A2).
+**Resumo:** Repositório de documentação e transcrição do programa InsurMinds - Agentes Inteligentes com IA Generativa aplicados ao mercado de seguros (I2A2).
 **Data de Criação:** 2026-04-14
 **Autor:** Carlos Delfino
-**Versão:** 1.0
+**Versão:** 1.1
 **Última Atualização:** 2026-04-14
-**Atualizado por:** Cascade AI
+**Atualizado por:** Carlos Delfino
 **Histórico de Alterações:**
-- 2026-04-14 - Criado por Cascade AI - Versão 1.0
+- 2026-04-14 - Criado por Carlos Delfino - Versão 1.0
+- 2026-04-14 - Atualizado por Carlos Delfino - Adicionada seção Propósito Educacional - Versão 1.1
