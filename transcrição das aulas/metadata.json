@@ -1,0 +1,92 @@
+{
+  "playlist": {
+    "id": "PLW-WdJ6yAI6J1m7t9G915ILp1CLAgd7xL",
+    "title": "InsurMinds - IA aplicada a seguros.",
+    "description": "Agentes Inteligentes com Redes Generativas.",
+    "channel": "I2A2",
+    "url": "https://www.youtube.com/playlist?list=PLW-WdJ6yAI6J1m7t9G915ILp1CLAgd7xL",
+    "total_videos": 4
+  },
+  "aulas": [
+    {
+      "index": 0,
+      "video_id": "6RAlXEp7Hwg",
+      "title": "A Era dos Agentes: Da IA Generativa à Arquitetura Cognitiva Autônoma",
+      "tipo": "webinar",
+      "upload_date": "2026-03-11",
+      "duration": "1:43:49",
+      "url": "https://www.youtube.com/watch?v=6RAlXEp7Hwg",
+      "palestrante": "Prof. Onédio Seabra Júnior (com participação de Celso Azevedo)",
+      "legendas_disponiveis": true,
+      "video_baixado": true,
+      "transcricao_gerada": true,
+      "documentacao_criada": true,
+      "data_processamento": "2026-04-14",
+      "arquivo_transcricao": "00 - A Era dos Agentes - transcrição.txt",
+      "arquivo_documentacao": "00 - A Era dos Agentes.md"
+    },
+    {
+      "index": 1,
+      "video_id": "9wU8Xpo69ek",
+      "title": "InsurMinds - Aula 01",
+      "tipo": "aula",
+      "upload_date": "2026-03-25",
+      "duration": "1:33:48",
+      "url": "https://www.youtube.com/watch?v=9wU8Xpo69ek",
+      "palestrante": "Celso Azevedo (I2A2) e Artur Castro (Gestão de Projetos de IA)",
+      "legendas_disponiveis": true,
+      "video_baixado": true,
+      "transcricao_gerada": true,
+      "documentacao_criada": true,
+      "data_processamento": "2026-04-14",
+      "arquivo_transcricao": "01 - InsurMinds Aula 01 - transcrição.txt",
+      "arquivo_documentacao": "01 - InsurMinds Aula 01.md"
+    },
+    {
+      "index": 2,
+      "video_id": "99iBBF8pKuA",
+      "title": "InsurMinds - Aula 02",
+      "tipo": "aula",
+      "upload_date": "2026-04-06",
+      "duration": "2:01:38",
+      "url": "https://www.youtube.com/watch?v=99iBBF8pKuA",
+      "palestrante": "Celso Azevedo (I2A2)",
+      "legendas_disponiveis": false,
+      "video_baixado": true,
+      "transcricao_gerada": true,
+      "documentacao_criada": true,
+      "data_processamento": "2026-04-14",
+      "arquivo_transcricao": "02 - InsurMinds Aula 02 - transcrição.txt",
+      "arquivo_documentacao": "02 - InsurMinds Aula 02.md"
+    },
+    {
+      "index": 3,
+      "video_id": "xtVntP496IQ",
+      "title": "InsurMinds - Agentes Inteligentes com IA Generativa",
+      "tipo": "aula",
+      "upload_date": "2026-04-14",
+      "duration": "2:06:23",
+      "url": "https://www.youtube.com/watch?v=xtVntP496IQ",
+      "palestrante": "Celso Azevedo (I2A2)",
+      "legendas_disponiveis": false,
+      "video_baixado": true,
+      "transcricao_gerada": true,
+      "documentacao_criada": true,
+      "data_processamento": "2026-04-14",
+      "arquivo_transcricao": "04 - InsurMinds Aula 03 - transcrição.txt",
+      "arquivo_documentacao": "03 - InsurMinds Agentes Inteligentes com IA Generativa.md"
+    }
+  ],
+  "configuracao": {
+    "pasta_videos": "../videos",
+    "pasta_transcricoes": ".",
+    "formato_legendas": "srt",
+    "qualidade_video": "720p",
+    "ferramenta_download": "yt-dlp 2026.3.17",
+    "cookies_browser": "brave"
+  },
+  "ultima_atualizacao": "2026-04-14T23:30:00-03:00",
+  "total_documentadas": 4,
+  "total_com_transcricao": 4,
+  "total_sem_transcricao": 0
+}
